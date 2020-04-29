@@ -37,13 +37,10 @@ updated: 2020 04 10 -->
 - *See [Known Issues][MOD:issues] for full details of feature requests, and known issues*
 ### Dependencies
 - [x]  [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/
+- [x]  [Module Manager][thread:mm]  
 firespitter (resource swapping and texture switching)
 ### Recommends  
-- [x]  [Module Manager][thread:mm]  
 - [x]  [Kerbal Changelog][thread:kcl]  
-- [x]  [Community Resource Pack][thread:crp]  
-USI-core
-cck
 ### Suggests
 - [x]  [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
 - [x]  [Field Training Facility (FTF)][thread:FTF]  
@@ -63,6 +60,7 @@ cck
 - [x]  [Stork Delivery System (SDS)][thread:SDS]  
 - [x]  [SimpleConstructon!][thread:SC!]  
 - [x]  [Not So SimpleConstructon!][thread:NSSC]  
+- [x]  [Community Resource Pack][thread:crp]  
 - [x]  [TweakScale][thread:twk]  
 ### Supports
 - [x]  [TweakScale][thread:twk]  
